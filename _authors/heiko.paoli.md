@@ -2,6 +2,7 @@
 title: Heiko Paoli
 username: heiko.paoli
 email: heiko.paoli@opitz-consulting.com
+github: heikopaoli
 
 picture: heiko.paoli.jpg
 topics:
